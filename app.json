@@ -4,5 +4,8 @@
     "hubspot_api_key": {
       "value": ""
     }
-  }
+  },
+  "addons": [
+    "scheduler"
+  ]
 }
