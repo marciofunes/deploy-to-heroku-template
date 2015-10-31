@@ -1,9 +1,9 @@
 {
   "name": "App Name",
   "env": {
-    "hubspot_api_key": {
-      "value": "",
-      "description": "Your HubSpot API Key, which you can find at https://app.hubspot.com/keys/get"
+      "HUBSPOT_API_KEY": {
+      "description": "Your HubSpot API Key, which you can find at https://app.hubspot.com/keys/get",
+      "required": true
     }
   },
   "addons": [
