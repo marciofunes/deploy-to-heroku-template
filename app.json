@@ -2,7 +2,7 @@
   "name": "App Name",
   "env": {
       "HUBSPOT_API_KEY": {
-      "description": "Your HubSpot API Key, which you can find at <a href="https://app.hubspot.com/keys/get">https://app.hubspot.com/keys/get</a>",
+      "description": "Your HubSpot API Key, which you can find at <a href="https:\/\/app.hubspot.com/keys/get">https://app.hubspot.com/keys/get</a>",
       "required": true
     }
   },
